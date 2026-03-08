@@ -6,7 +6,7 @@ A fork of the OpenAI [Multi-Agent Particle Environment](https://github.com/opena
 with some new scenarios.
 
 This was a final project for Stanford XCS229ii.
-More details in the [paper](https://github.com/captainpete/zombie-survival/blob/master/paper/paper.pdf).
+More details in the [paper](https://github.com/captainpete/zombie-survival/blob/master/paper/paper.pdf) and the [blog post](https://dojo7.com/2020/12/20/zombie-marl/).
 
 ## Getting started:
 
